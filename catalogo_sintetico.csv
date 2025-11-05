@@ -1,0 +1,101 @@
+title,language,genres,has_file
+Libro 1,es,"['Romance', 'Fantasía']",True
+Libro 2,es,"['Romance', 'Policial']",True
+Libro 3,es,"['Ciencia ficción', 'Policial']",True
+Libro 4,es,"['Fantasía', 'Historia', 'Ensayo']",True
+Libro 5,es,"['Policial', 'Fantasía']",True
+Libro 6,es,"['Novela', 'Fantasía']",True
+Libro 7,es,"['Romance', 'Novela', 'Ciencia ficción']",True
+Libro 8,es,['Romance'],True
+Libro 9,es,"['Ensayo', 'Romance', 'Fantasía']",True
+Libro 10,es,"['Ciencia ficción', 'Romance']",True
+Libro 11,es,"['Policial', 'Historia']",True
+Libro 12,es,"['Policial', 'Fantasía']",True
+Libro 13,es,"['Romance', 'Policial']",True
+Libro 14,es,"['Historia', 'Ciencia ficción']",True
+Libro 15,es,['Ensayo'],True
+Libro 16,es,['Ciencia ficción'],True
+Libro 17,es,['Novela'],True
+Libro 18,es,"['Novela', 'Fantasía', 'Romance']",True
+Libro 19,es,"['Policial', 'Ciencia ficción']",True
+Libro 20,es,['Policial'],True
+Libro 21,es,['Historia'],True
+Libro 22,es,"['Ciencia ficción', 'Ensayo']",True
+Libro 23,es,"['Historia', 'Policial']",True
+Libro 24,es,['Historia'],True
+Libro 25,es,"['Romance', 'Fantasía', 'Ciencia ficción']",True
+Libro 26,es,"['Fantasía', 'Ciencia ficción', 'Policial']",True
+Libro 27,es,['Historia'],True
+Libro 28,es,['Romance'],True
+Libro 29,es,['Ciencia ficción'],True
+Libro 30,es,"['Historia', 'Fantasía']",True
+Libro 31,es,"['Ciencia ficción', 'Fantasía', 'Novela']",True
+Libro 32,es,['Fantasía'],True
+Libro 33,es,['Romance'],True
+Libro 34,es,['Novela'],True
+Libro 35,es,"['Policial', 'Historia', 'Ensayo']",True
+Libro 36,es,['Fantasía'],True
+Libro 37,es,"['Romance', 'Historia', 'Ciencia ficción']",True
+Libro 38,es,"['Novela', 'Ciencia ficción']",True
+Libro 39,es,"['Romance', 'Fantasía']",True
+Libro 40,es,"['Ensayo', 'Novela']",True
+Libro 41,es,"['Historia', 'Policial', 'Ciencia ficción']",True
+Libro 42,es,"['Fantasía', 'Ensayo']",True
+Libro 43,es,"['Romance', 'Historia']",True
+Libro 44,es,"['Historia', 'Fantasía']",True
+Libro 45,es,"['Ensayo', 'Romance', 'Historia']",True
+Libro 46,es,"['Fantasía', 'Romance']",True
+Libro 47,es,"['Romance', 'Ensayo', 'Fantasía']",True
+Libro 48,es,"['Fantasía', 'Historia']",True
+Libro 49,es,"['Fantasía', 'Ciencia ficción', 'Novela']",True
+Libro 50,es,"['Novela', 'Ciencia ficción']",True
+Libro 51,es,['Ciencia ficción'],True
+Libro 52,es,"['Fantasía', 'Historia', 'Ciencia ficción']",True
+Libro 53,es,"['Ensayo', 'Fantasía', 'Romance']",True
+Libro 54,es,"['Ensayo', 'Novela', 'Policial']",True
+Libro 55,es,['Novela'],True
+Libro 56,es,"['Ensayo', 'Romance']",True
+Libro 57,es,['Novela'],True
+Libro 58,es,"['Fantasía', 'Ciencia ficción']",True
+Libro 59,es,"['Ensayo', 'Fantasía']",True
+Libro 60,es,"['Novela', 'Ensayo', 'Romance']",True
+Libro 61,es,"['Fantasía', 'Ensayo']",True
+Libro 62,es,"['Historia', 'Ciencia ficción', 'Fantasía']",True
+Libro 63,es,"['Policial', 'Novela', 'Ensayo']",True
+Libro 64,es,"['Novela', 'Fantasía', 'Romance']",True
+Libro 65,es,"['Novela', 'Historia', 'Policial']",True
+Libro 66,es,"['Ciencia ficción', 'Ensayo']",True
+Libro 67,es,"['Policial', 'Ensayo']",True
+Libro 68,es,"['Romance', 'Novela']",True
+Libro 69,es,['Historia'],True
+Libro 70,es,"['Romance', 'Historia']",True
+Libro 71,es,['Romance'],True
+Libro 72,es,['Ciencia ficción'],True
+Libro 73,es,['Romance'],True
+Libro 74,es,"['Romance', 'Policial', 'Novela']",True
+Libro 75,es,['Fantasía'],True
+Libro 76,es,['Ciencia ficción'],True
+Libro 77,es,"['Policial', 'Fantasía']",True
+Libro 78,es,"['Policial', 'Ensayo', 'Historia']",True
+Libro 79,es,['Policial'],True
+Libro 80,es,"['Ciencia ficción', 'Novela', 'Romance']",True
+Libro 81,es,['Fantasía'],True
+Libro 82,es,"['Ciencia ficción', 'Policial', 'Romance']",True
+Libro 83,es,"['Historia', 'Novela']",True
+Libro 84,es,"['Policial', 'Fantasía']",True
+Libro 85,es,['Ensayo'],True
+Libro 86,es,"['Policial', 'Fantasía']",True
+Libro 87,es,"['Ensayo', 'Romance']",True
+Libro 88,es,"['Fantasía', 'Policial', 'Historia']",True
+Libro 89,es,"['Ensayo', 'Policial']",True
+Libro 90,es,"['Romance', 'Novela']",True
+Libro 91,es,"['Ciencia ficción', 'Ensayo', 'Fantasía']",True
+Libro 92,es,"['Historia', 'Fantasía']",True
+Libro 93,es,['Fantasía'],True
+Libro 94,es,"['Historia', 'Fantasía']",True
+Libro 95,es,"['Ciencia ficción', 'Romance']",True
+Libro 96,es,"['Novela', 'Policial']",True
+Libro 97,es,"['Novela', 'Romance']",True
+Libro 98,es,"['Fantasía', 'Romance']",True
+Libro 99,es,['Policial'],True
+Libro 100,es,"['Ensayo', 'Novela', 'Historia']",True
